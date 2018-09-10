@@ -26,6 +26,12 @@
 	font-size: 25px;
 }
 
+.disabled {
+	font-size: 25px;
+	color: #909090;
+	cursor: default
+}
+
 .superheader {
 	color: #11ABB0;
 	cursor: default
