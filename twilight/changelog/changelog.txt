@@ -1,0 +1,95 @@
+1.12.2 - Twilit Genesis
+
+	___v1.1.0___
+==Realizing Your Mistakes Update==
+
+Mods added -
+	Ambience
+	AppleSkin
+	Autowalk
+	Blood Magic
+	DiscordSuite
+	Guide API
+	Just Enough HarvestCraft
+	Light Level Overlay Reloaded
+	Magical Psi
+	No Recipe Book
+	Psi
+	Thermal Cultivation
+	
+Mods updated -
+	Chisel
+
+Config Changes -
+	Added aluminum spawning
+	
+Notes -
+	jesus fucking christ i'm an idiot
+	i mean it
+
+
+	___v1.0.0___
+==Initial Release==
+
+Mods added -
+	additional banners
+	applecore
+	autoreglib
+	b.a.s.e
+	baubles
+	bdlib
+	better builder's wands
+	better foliage
+	bibliocraft
+	bookshelf
+	botania
+	carry on
+	chameleon
+	chisel
+	chisels&bits
+	clumps
+	compacter
+	connectedtexturesmod
+	controlling
+	cooking for blockheads
+	crafting tweaks
+	dark utils
+	diet hoppers
+	earthworks
+	extra alchemy
+	fast leaf decay
+	fast workbench
+	foamfix
+	ftb lib
+	ftb utils
+	hopper ducts
+	hwyla
+	iron backpacks
+	iron chests
+	item scroller
+	item zoom
+	jei
+	journeymap
+	just another snad
+	justenoughdimensions
+	login shield
+	mantle
+	mcmultipart
+	morpheus
+	natura
+	nether chest
+	open glider
+	pam's harvestcraft
+	quark
+	realistic item drops
+	rustic
+	spice of life: carrot edition
+	storage drawers
+	tinkers
+	tinkers tool leveling
+	tip the scales
+	twilight forest
+	waila harvestability
+	wawla
+	waystones
+	xtones
