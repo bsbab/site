@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href="main.css" rel="stylesheet" />
+		<title>@bsbab~ GTNH</title>
+	</head>
+
+	<body class="body">
+		<div class="wrapper">
+			<div id="header" align="center">
+				<a href="../index.html" class="link home">Home</a><span class="disabled"> / GTNH</span>
+				<hr class="hr1">
+				<h1 class="superheader" align="center">GTNH (1.7.10)</h1>
+				<p align="center"><img class="image" src="../mc.png" style="width:150px;height:150px;"></p>
+				<p class="text" align="center">Instructions to help you get running on any bsbab GTNH server</p>
+				<p></p>
+			</div>
+			<div id="content" style="background-color: #26292B">
+			
+			<div class="ver" align="center">
+				<br>
+				<h3 align="center">To install, use the <a href="https://www.technicpack.net/download">Technic Launcher</a>.</h3>
+				<p align="center">-Search for and download <a href="https://www.technicpack.net/modpack/mcnewhorizons.677387/">GT New Horizons on the Technic Launcher</a></p>
+				<p align="center">-Set Technic to use more RAM in Launcher Options > Java Settings (And make sure you're running Java 8 64 bit!)</p>
+				<p align="center">-Optionally, download the newest version of the GregTech NEI Ore Plugin <a href="http://jenkins.usrv.eu:8080/job/GTNEIOrePlugin/lastSuccessfulBuild/artifact/build/libs/gtneioreplugin-1.7.10-1.0.7.jar">here</a> and replace it in your Technic modpack folder in AppData/Roaming/.technic</p>
+				<br>
+				<h3 align="center">Customizations:</h3>
+				<p align="center" class="customizations">Always daytime<br>No mobs<br>No weather<br>Increased quests rewards<br>New quests to account for other changes</p>
+				<br>
+				<h3 align="center">FAQ</h3>
+				
+				<div class="FAQ">
+					<a class="noselect" onclick="q1()" class="title1" title="Click me!">Why daytime only/peaceful?</a>
+					<div id="hid1">
+						<hr class="hr2">
+						<p class="margin">Mobs serve as more of an annoyance in GTNH. There are a large number of mob "difficulty" mods and configurations, so finding them all and disabling them is a challenge in and of itself. Even disabling nighttime and only having them spawn in caves/darkness is more bothersome than enjoyable.<br>Other than that, the darkness of night is obnoxious, and forcing players to jump into a bed every 12 minutes to be able to see is grating.</p>
+					</div><br>
+				
+					<a class="noselect" onclick="q2()" class="title1" title="Click me!">Why no weather?</a>
+					<div id="hid2">
+						<hr class="hr2">
+						<p class="margin">Do you actually like the rain in Minecraft? The absurdly loud rain that makes it more difficult to see anything?<br>Rain also causes GregTech machines to explode, so even with rain disabled it may rain long enough to cause damage. Be wary.</p>
+					</div><br>
+				
+					<a class="noselect" onclick="q3()" class="title1" title="Click me!">How are quest rewards increased? Why?</a>
+					<div id="hid3">
+						<hr class="hr2">
+						<p class="margin">All quest rewards that are a choice option have been changed to give all choices. There is also an exchange to turn basic lootbags into enchanted one versions that do not give junk items for free.<br>Getting rewarded for doing quests always feels good. Most quests feel like there is a lot of work to put into them, so I believe that the rewards should be high as well. Also, getting junk from a lootbag makes you feel like you wasted your time, and doing the enchantment for it with the normal method is a pain.</p>
+					</div><br>
+				
+					<a class="noselect" onclick="q4()" class="title1" title="Click me!">What new quests? What for?</a>
+					<div id="hid4">
+						<hr class="hr2">
+						<p class="margin">New quests have been added to the coins quest tab that give different items and devices to make the game a little less painful and give more use for coins. A new quest tab for mob drops has also been added as a result of the change to peaceful difficulty.</p>
+					</div><br>
+					
+					<a class="noselect" onclick="q5()" class="title1" title="Click me!">I have a problem with the server!</a>
+					<div id="hid5">
+						<hr class="hr2">
+						<p class="margin">Ask an op in discord.</p>
+					</div><br>
+				</div>
+			</div>
+				
+			</div>
+			<div class="footer">
+				<p align="center"><img src="../logo.png" style="width:355px;height:246px;"></p>
+				<p align="center"><br>Hosting by bsbab.org</p>
+			</div>
+			
+		</div>
+		
+	</body>
+</html>
+
+<script>
+				function q1() {
+					var x = document.getElementById('hid1');
+					if (x.style.display === 'block') {
+						x.style.display = 'none';
+					} else {
+						x.style.display = 'block';
+					}
+				}
+				function q2() {
+					var x = document.getElementById('hid2');
+					if (x.style.display === 'block') {
+						x.style.display = 'none';
+					} else {
+						x.style.display = 'block';
+					}
+				}
+				function q3() {
+					var x = document.getElementById('hid3');
+					if (x.style.display === 'block') {
+						x.style.display = 'none';
+					} else {
+						x.style.display = 'block';
+					}
+				}
+				function q4() {
+					var x = document.getElementById('hid4');
+					if (x.style.display === 'block') {
+						x.style.display = 'none';
+					} else {
+						x.style.display = 'block';
+					}
+				}
+				function q5() {
+					var x = document.getElementById('hid5');
+					if (x.style.display === 'block') {
+						x.style.display = 'none';
+					} else {
+						x.style.display = 'block';
+					}
+				}
+</script>
